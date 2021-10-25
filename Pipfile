@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 substrate-interface = "*"
+selene = "==2.0.0a39"
+pytest = "*"
 
 [dev-packages]
 
