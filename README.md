@@ -1,1 +1,1 @@
-# acala_test
+# test_polkadot_wallet_extension
